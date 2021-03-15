@@ -1,10 +1,10 @@
 p.left{
   display:inline;
-  width:10%
+  width:35%;
   float:left;
   margin:auto;
 }
-img.right{
+figure.right{
   display:block;
   margin:auto;
   float:right;
