@@ -1,0 +1,11 @@
+p.left{
+  display:inline;
+  width:10%
+  float:left;
+  margin:auto;
+}
+img.right{
+  display:block;
+  margin:auto;
+  float:right;
+}

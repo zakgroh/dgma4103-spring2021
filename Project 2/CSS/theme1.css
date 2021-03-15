@@ -1,0 +1,38 @@
+body{
+  background-color:#6cbaff;
+}
+figure{
+  float:right;
+}
+header{
+  text-align:left;
+  background-color:#002e56;
+  color:#0073d8;
+  font-family:tahoma;
+}
+a{
+  color:#0073d8;
+}
+img{
+  border:solid 3px #002e56;
+}
+p{
+  text-align:left;
+  width:40%;
+  background-color:#002e56;
+  color:#0073d8;
+  font-family: monospace;
+}
+h2{
+  color:#002e56;
+  background-color:#b6ddff;
+  text-align:left;
+  border:solid 3px #002e56
+}
+footer{
+  background-color:#6cbaff;
+  width:65%;
+}
+figcaption{
+  color:#002e56;
+}
